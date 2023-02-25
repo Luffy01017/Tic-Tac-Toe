@@ -1,0 +1,28 @@
+/* table {
+  border-collapse: collapse;
+  margin: 50px auto;
+}
+
+td {
+  border: 1px solid black;
+  font-size: 48px;
+  height: 100px;
+  text-align: center;
+  vertical-align: middle;
+  width: 100px;
+  cursor: pointer;
+} */
+table {
+  border-collapse: collapse;
+  margin: 50px auto;
+}
+
+td {
+  border: 1px solid black;
+  font-size: 48px;
+  height: 100px;
+  width: 100px;
+  vertical-align: middle;
+  cursor: pointer;
+  text-align: center;
+}
